@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+  <Room description="This is a dark and gloomy dungeon">
+    <Box description="a small box">
+      <Scroll description="an old scroll" />
+    </Box>
+    <Player name="John Random" description="the player" />
+  </Room>
+  <Troll name="Grkr" description="a nasty troll" />
+</World>
